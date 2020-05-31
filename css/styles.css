@@ -2,6 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  background-color: #effff9;
 }
 
 h1 {
@@ -9,12 +10,12 @@ h1 {
   margin: 0 auto;
   font-family: 'Sacramento', sans-serif;
   font-weight: 100;
-  /*color: #66BFBF;*/
+  color: #1e836c;
 }
 
 .top-container p{
   font-size: 2.5rem;
-  /*color: #66BFBF;*/
+  color: #1e836c;
   font-weight: normal;
 }
 
@@ -22,11 +23,11 @@ h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   text-align: center;
-  color: #66BFBF;
+  color: #1e836c;;
   font-weight: normal;
 }
 
-.profileclass{
+.profile{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
@@ -45,9 +46,10 @@ h3{
 }
 .profile img{
    margin-top: 0px;
-   margin-bottom: 100px;
-   height: 300px;
-   width: 600px;
+   margin-bottom: 0px;
+   height: 356px;
+   width: 356px;
+   border-radius: 50%;
 }
 
 hr{
@@ -84,7 +86,7 @@ hr{
 }
 
 .bottom-container{
-  background-color: #66BFBF;
+  background-color: #b6efef;;
   padding-top: 20px;
   padding-bottom: 10px;
 }
@@ -121,10 +123,11 @@ hr{
 .footer-link{
   text-decoration: none;
   margin-right: 55px;
+  color: #000;
 }
 
 .last-para{
-    color: #EAF6F6;
+    color: #1e836c;
     padding-top: 5px;
     margin-top: 15px;
 }
